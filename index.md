@@ -14,3 +14,8 @@ int main()
     return 0;
 }
 ```
+## A Todo List
+
+- [x] Complete an Intro to Github Course
+- [ ] Complete the Intro to Markdown Course
+- [ ] Finish the Laboratory Work
